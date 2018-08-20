@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 88 7" width="88" height="7">
+	<defs>
+		<image width="195" height="16" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTUgMTYiIHdpZHRoPSIxOTUiIGhlaWdodD0iMTYiPgoJPHN0eWxlPgoJCXRzcGFuIHsgd2hpdGUtc3BhY2U6cHJlIH0KCQkuc2hwMCB7IGZpbGw6IG5vbmU7c3Ryb2tlOiAjZmY3NzAwO3N0cm9rZS13aWR0aDogMiB9IAoJCS5zaHAxIHsgZmlsbDogI2ZmNzcwMCB9IAoJPC9zdHlsZT4KCTxnIGlkPSJQYWdlIDEiPgoJCTxwYXRoIGlkPSJQYXRoIDEiIGNsYXNzPSJzaHAwIiBkPSJNMTgwLjQ2LDcuODdoLTE4MC40NiIgLz4KCQk8cGF0aCBpZD0iUGF0aCAyIiBjbGFzcz0ic2hwMSIgZD0iTTE3Mi41NSwtMC4yNnYxNi4yNmwyMi4zNCwtOC4xM3oiIC8+Cgk8L2c+Cjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Vector Smart Object copy 4" href="#img1" transform="matrix(-0.941,0,0,0.897,88,0)"/>
+</svg>
