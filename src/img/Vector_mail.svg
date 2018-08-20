@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 11" width="15" height="11">
+	<defs>
+		<image width="34" height="25" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNCAyNSIgd2lkdGg9IjM0IiBoZWlnaHQ9IjI1Ij4KCTxzdHlsZT4KCQl0c3BhbiB7IHdoaXRlLXNwYWNlOnByZSB9CgkJLnNocDAgeyBmaWxsOiAjMDAwMDAwIH0gCgk8L3N0eWxlPgoJPGcgaWQ9IlBhZ2UgMSI+CgkJPHBhdGggaWQ9IlBhdGggMSIgY2xhc3M9InNocDAiIGQ9Ik0xNy4xOCwxNy42NGwtNC4yNSwtMy43MmwtMTIuMTUsMTAuNDJjMC40NCwwLjQxIDEuMDQsMC42NyAxLjY5LDAuNjdoMjkuNDNjMC42NSwwIDEuMjUsLTAuMjUgMS42OSwtMC42N2wtMTIuMTUsLTEwLjQyek0zMy41OSwxLjEyYy0wLjQ0LC0wLjQxIC0xLjA0LC0wLjY3IC0xLjY5LC0wLjY3aC0yOS40M2MtMC42NSwwIC0xLjI1LDAuMjUgLTEuNjksMC42N2wxNi40LDE0LjA2ek0wLDIuNjF2MjAuMzlsMTEuODYsLTEwLjA4ek0yMi41LDEyLjkybDExLjg2LDEwLjA4di0yMC40eiIgLz4KCTwvZz4KPC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Vector Smart Object" href="#img1" transform="matrix(0.909,0,0,0.934,0,0)"/>
+</svg>
