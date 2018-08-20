@@ -1,0 +1,61 @@
+$text-color-white: #fff;
+
+$color-orange: #e3692b;
+
+%main-container {
+  width: 847px;
+  margin: auto;
+}
+
+%title-h2 {
+  font-size: 57px;
+  line-height: 67px;
+  color: rgb(0,0,0);
+  font-family: "Acrom";
+  font-weight: 800;
+  background-color: #000;
+}
+
+%btn-sign-up {
+  font-size: 13px;
+  letter-spacing: 1px;
+  line-height: 17px;
+  color: rgb(255,255,255);
+  font-family: "Acrom";
+  font-weight: 800;
+  text-align: center;
+}
+
+@mixin title-h3 ($title-width) {
+  width: $title-width;
+  font-family: "Acrom";
+  font-weight: 800;
+  font-size: 37px;
+  line-height: 50px;
+  color: rgb(0,0,0);
+}
+
+%Acrom-Bold {
+  font-family: 'Acrom', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+%Acrom-Regular {
+  font-family: 'Acrom', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+%Acrom-Medium {
+  font-family: 'Acrom', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+%Acrom-ExtraBold {
+  font-family: 'Acrom', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
