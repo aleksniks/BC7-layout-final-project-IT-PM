@@ -12,6 +12,23 @@
  * 2. Prevent adjustments of font size after orientation changes in iOS.
  */
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
 html {
   line-height: 1.15;
   /* 1 */
@@ -373,4 +390,191 @@ template {
 
 [hidden] {
   display: none;
+}
+
+@font-face {
+  font-family: 'Acrom';
+  src: url("../fonts/Acrom-Bold.woff");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Acrom';
+  src: url("../fonts/Acrom-ExtraBold.woff");
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Acrom';
+  src: url("../fonts/Acrom-Regular.woff");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Acrom';
+  src: url("../fonts/Acrom-Medium.woff");
+  font-style: normal;
+  font-weight: 500;
+}
+
+.sec2 {
+  width: 847px;
+  margin: auto;
+}
+
+.header2s2 {
+  font-size: 57px;
+  line-height: 67px;
+  color: black;
+  font-family: "Acrom";
+  font-weight: 800;
+  background-color: #000;
+}
+
+.text_w1,
+.s2box3 {
+  font-family: 'Acrom', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.s2box1,
+.s2box2 {
+  font-family: 'Acrom', sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.sec2 {
+  margin-bottom: 75px;
+}
+
+.list_w1-item {
+  display: flex;
+}
+
+.img_w1 {
+  width: 342px;
+  height: 198px;
+}
+
+.img_w1 img {
+  width: 100%;
+  height: 100%;
+}
+
+.list_w1 {
+  width: 450px;
+  display: flex;
+  height: 200px;
+  flex-wrap: wrap;
+}
+
+.flex_img-list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text_w1 {
+  width: 200px;
+}
+
+.text_w1--2 {
+  width: 123px;
+}
+
+.text_w1--3 {
+  width: 140px;
+}
+
+.sprite_w1 {
+  background-image: url(../img/spritesheet.png);
+  background-repeat: no-repeat;
+  display: block;
+  margin-right: 13px;
+}
+
+.sprite-sec2_001 {
+  width: 9px;
+  height: 31px;
+  background-position: -5px -5px;
+  background-color: #e3692b;
+}
+
+.sprite-sec2_002 {
+  width: 9px;
+  height: 33px;
+  background-position: -24px -5px;
+  background-color: #e3692b;
+}
+
+.sprite-sec2_003 {
+  width: 9px;
+  height: 32px;
+  background-position: -43px -5px;
+  background-color: #e3692b;
+}
+
+.header_w1 {
+  width: 466px;
+  font-family: "Acrom";
+  font-weight: 800;
+  font-size: 37px;
+  line-height: 50px;
+  color: black;
+  margin-bottom: 50px;
+}
+
+.lw2 {
+  margin-left: 20px;
+}
+
+.bloc-item_sec2 {
+  width: 266px;
+  display: flex;
+}
+
+.header2s2 {
+  color: #fff;
+  width: 565px;
+  margin-bottom: 50px;
+}
+
+.wrappers2w3 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.s2box1 {
+  text-transform: uppercase;
+  color: #fff;
+  background-color: black;
+  width: 70px;
+  line-height: 1.5;
+}
+
+.s2box2 {
+  text-transform: uppercase;
+  width: 184px;
+  line-height: 1.5;
+}
+
+.s2box3 {
+  line-height: 1.5;
+}
+
+.img_list--s2 {
+  margin-right: 20px;
+}
+
+.wrapper1s2 {
+  margin-bottom: 143px;
+}
+
+.bloc-item_sec2 {
+  margin-bottom: 30px;
+  margin-right: 16px;
 }
