@@ -1,0 +1,115 @@
+.section8-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+  padding-top: 100px;
+  padding-bottom: 86px;
+  width: 415px;
+  box-sizing: border-box;
+  
+}
+
+.section8__info-course{
+  margin: auto;
+  margin-bottom: 52px;
+  padding: 49px 66px 53px 46px;
+  box-shadow: -5.248px 6.038px 21px rgba(0,0,0,0.11);
+}
+
+.info-course__bonus-holder {
+  display: flex;
+  width: 375px;
+  height: 33px;
+}
+
+.content-holder {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: right;
+  margin: auto;
+  margin-bottom: 37px;
+  width: 245px;
+}
+
+.content-holder__description:nth-child(-2n+3) {
+  margin-bottom: 24px;
+}
+
+.content-holder__description:nth-child(1) {
+  padding-left: 15px;
+}
+
+.content-holder__description:nth-child(3) {
+  padding-left: 80px;
+}
+
+.content-holder__description:nth-child(5) {
+  padding-left: 58px;
+}
+
+.description__edu {
+  background-color: #000;
+  color: $text-color-white;
+  font-size: 12px;
+  line-height: 18px;
+  font-family: "Acrom";
+  font-weight: 800;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.expired-cost {
+  position: relative;
+}
+
+.expired-cost:before {
+  position: absolute;
+  content: "";
+  width: 64px;
+  height: 20px;
+  background-image: url("../img/expired_cost_line.png");
+}
+
+.description__value {
+  font-size: 12px;
+  line-height: 18px;
+  color: rgb(0,0,0);
+  font-family: "Acrom";
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.info-course__bonus-holder{
+  position: relative;
+  padding-left: 67px;
+  width: 240px;
+  font-size: 15px;
+  line-height: 21px;
+  color: $color-orange;
+  @extend %Acrom-Medium;
+}
+
+.info-course__bonus-holder:before {
+  position: absolute;
+  content: "";
+  top: 5px;
+  left: 38px;
+  width: 18px;
+  height: 30px;
+  background-image: url("../img/bonus_line.png");
+}
+
+.section8__btn {
+  display: block;
+  padding: 17px 32px 17px 35px;
+  margin: auto;
+  text-align: center;
+  color: #fff;
+  background-color: $color-orange;
+  font-size: 13px;
+  font-family: "Acrom";
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
