@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 204 83" width="204" height="83">
+	<defs>
+		<image width="204" height="83" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMwAAABTCAMAAADkzBhWAAAAeFBMVEXwfjH///8AAADwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjHwfjFilJmKAAAAKHRSTlP/AABIOQGQ3IEmyW4WwNXFx9Tk+7ZaCtBoQEdCrOKHK/CbPwKJr1MHfiz3FgAAAOxJREFUeJzt08luwkAQANFhDWsIYd8CCRD+/w+xMSBLPtrChVV1as3BnidNhxBqlSmIgSaGmhhqYqiJoSaGmhhqYqiJoSaGmhhqYqiJoSaGmhhqYqiJoSaGmhhqYqiJoSaGmhhqYqiJoSaGmhhqYqiJoSaGmhhqYqiJoVY1TL2kxIgRI0YMAxP9Mh8m88VGs/UYS8A8LlQQph0+Ot1kLAWT3KkwTFSvP0gww7jP0fAN+hpnz77Drcl0Ng/VabEMq6T1ZvUGbdbZs+1NsvvZR8/spRvzXJT0+uTfmcPv3zEey8CkxgIwp/P/5T5eASMDZCBNrPtpAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Vector Smart Object" href="#img1" x="0" y="0" />
+</svg>
